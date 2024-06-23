@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="590642f7-1806-464a-8d0c-aa50a44b2ef9" name="Changes" comment="" />
+    <list default="true" id="590642f7-1806-464a-8d0c-aa50a44b2ef9" name="Changes" comment="docker-compose.yml">
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,11 +48,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719161035583</updated>
-      <workItem from="1719161037061" duration="642000" />
+      <workItem from="1719161037061" duration="2546000" />
     </task>
+    <task id="LOCAL-00001" summary="docker-compose.yml">
+      <option name="closed" value="true" />
+      <created>1719164228398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719164228398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docker-compose.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="docker-compose.yml" />
   </component>
 </project>
